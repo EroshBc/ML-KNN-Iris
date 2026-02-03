@@ -1,3 +1,3 @@
 # ML-KNN-Iris
 
-###Data set : Fagle Iris Species data set data set
+1.  Data set : Fagle Iris Species data set data set
