@@ -1,14 +1,17 @@
 # ML-KNN-Iris
 
 1.  Data set : Kagle Iris Species data set data set
+   
     https://www.kaggle.com/datasets/uciml/iris?resource=download
-    It includes three iris species with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not       linearly separable from each other.
+    
+    It includes three iris species with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not            linearly separable from each other.
 
-The columns in this dataset are:
 
-Id
-SepalLengthCm
-SepalWidthCm
-PetalLengthCm
-PetalWidthCm
-Species
+    The columns in this dataset are:
+
+    Id
+    SepalLengthCm
+    SepalWidthCm
+    PetalLengthCm
+    PetalWidthCm
+    Species
