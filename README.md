@@ -16,8 +16,8 @@
     PetalWidthCm<br>
     Species<br>
     
-2.   model saved and applied on real world data set
-3.   How to use the model for realtime data
-      test_data =[[0.4,2.1,5.1,2.2],[3.1,2.5,2.1,1.0]]
-      result = model.predict(test_data)
+2.   model saved and applied on real world data set<br>
+3.   How to use the model for realtime data<br>
+      test_data =[[0.4,2.1,5.1,2.2],[3.1,2.5,2.1,1.0]]<br>
+      result = model.predict(test_data)<br>
       print(result)
